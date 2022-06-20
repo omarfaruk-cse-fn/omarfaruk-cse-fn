@@ -1,4 +1,4 @@
-![Front-end web developer (React-JS)](https://i.ibb.co/51269r3/DSC-0320.jpg)
+![Front-end web developer (React-JS)](https://i.ibb.co/6y4fCVb/DSC-0320.jpg)
 
 ### Hi there 👋, my name is Omar Faruq
 #### Front-end web developer (React-JS)
