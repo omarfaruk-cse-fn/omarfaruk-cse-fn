@@ -1,4 +1,5 @@
-![Front-end web developer (React-JS)](https://video.fcgp1-1.fna.fbcdn.net/v/t39.30808-1/257198903_114607611028762_4249259564274227360_n.jpg?stp=dst-jpg_p160x160&_nc_cat=101&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeFIG2rI9-kKpUIcBp10wYfNSSPf0AEXckpJI9_QARdySopGQeuiNwKF5hZCXxp-aFcedJbPHDd601WzbJcbAnPR&_nc_ohc=6Ijjwhj-5XQAX9rJrC5&_nc_ht=video.fcgp1-1.fna&oh=00_AT-tWRUkDxjTlvTwA9yWexiJDhQTHEL8fxLBD1JrojtMmA&oe=62B50EDA)
+![Front-end web developer (React-JS)](https://video.fcgp1-1.fna.fbcdn.net/v/t39.30808-6/257198903_114607611028762_4249259564274227360_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFIG2rI9-kKpUIcBp10wYfNSSPf0AEXckpJI9_QARdySopGQeuiNwKF5hZCXxp-aFcedJbPHDd601WzbJcbAnPR&_nc_ohc=6Ijjwhj-5XQAX9rJrC5&_nc_zt=23&_nc_ht=video.fcgp1-1.fna&oh=00_AT-puPTFCRpPCZVH1seMkb5U9_GjYfzt0pgShjPAH9DnIw&oe=62B57AE0)
+
 ### Hi there 👋, my name is Omar Faruq
 #### Front-end web developer (React-JS)
 
