@@ -6,10 +6,6 @@ I'm a Front-end web developer. I always try to make an error-free website.  I li
 
 Skills:  REACT / JS / HTML / CSS/ BOOTSTRAP/ TAILWIND/ FIREBASE AUTHENTICATION
 
-- 🔭 I’m currently working on E-commerce app development 
-- 👯 I’m looking to collaborate on GitHub 
-
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/omarfaruk-cse-fn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com//omar.cse.fn)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=omarfaruk-cse-fn)](https://github.com/ryo-ma/github-profile-trophy)
